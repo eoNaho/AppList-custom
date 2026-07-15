@@ -17,6 +17,12 @@
       "repository": "mchughalex/skate3recomp",
       "folderName": "Skate3Recompiled",
       "appIconUrl": "https://cdn2.steamgriddb.com/icon/dcf0c06522a3c86c78bea8dc47433933.png"
+    },
+    {
+      "name": "Kameo: RePowered (Kameo: Elements of Power)",
+      "repository": "birabittoh/KameoRePowered",
+      "folderName": "KameoRePowered",
+      "appIconUrl": "https://cdn2.steamgriddb.com/icon_thumb/6a9396f51fadc08f4d40ccf873451a4e.png"
     }
   ],
   "Tools": []
