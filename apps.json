@@ -25,5 +25,71 @@
       "appIconUrl": "https://cdn2.steamgriddb.com/icon_thumb/6a9396f51fadc08f4d40ccf873451a4e.png"
     }
   ],
+  "SNES Ports": [
+    {
+      "name": "Mega Man X: Recompiled",
+      "repository": "mstan/MegaManXSNESRecomp",
+      "folderName": "MegaManXSNESRecomp",
+      "appIconUrl": "https://cdn2.steamgriddb.com/icon_thumb/3721e4fa10597f0aa6ab442e95508de1.png"
+    }
+  ],
+  "PlayStation Ports (Recomp)": [
+    {
+      "name": "Tomba!: Recompiled",
+      "repository": "mstan/TombaRecomp",
+      "folderName": "TombaRecomp",
+      "appIconUrl": "https://cdn2.steamgriddb.com/thumb/bc24e9eee7e3f89a8f618317668a9042.jpg"
+    }
+  ],
+  "NES Ports": [
+    {
+      "name": "Super Mario Bros.: Recompiled",
+      "repository": "mstan/SuperMarioBrosNESRecomp",
+      "folderName": "SuperMarioBrosNESRecomp",
+      "appIconUrl": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_Entertainment_System/master/Named_Boxarts/Super%20Mario%20Bros.%20(World).png"
+    },
+    {
+      "name": "Duck Hunt: Recompiled",
+      "repository": "mstan/DuckHuntNESRecomp",
+      "folderName": "DuckHuntNESRecomp",
+      "appIconUrl": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_Entertainment_System/master/Named_Boxarts/Duck%20Hunt%20(World).png"
+    },
+    {
+      "name": "Dr. Mario: Recompiled",
+      "repository": "mstan/DrMarioNesRecomp",
+      "folderName": "DrMarioNesRecomp",
+      "appIconUrl": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_Entertainment_System/master/Named_Boxarts/Dr.%20Mario%20(World).png"
+    },
+    {
+      "name": "The Legend of Zelda: Recompiled",
+      "repository": "mstan/LegendOfZeldaNESRecomp",
+      "folderName": "LegendOfZeldaNESRecomp",
+      "appIconUrl": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_Entertainment_System/master/Named_Boxarts/Legend%20of%20Zelda%2C%20The%20(USA).png"
+    },
+    {
+      "name": "Faxanadu: Recompiled",
+      "repository": "mstan/FaxanaduRecomp",
+      "folderName": "FaxanaduRecomp",
+      "appIconUrl": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_Entertainment_System/master/Named_Boxarts/Faxanadu%20(USA).png"
+    },
+    {
+      "name": "Yoshi: Recompiled",
+      "repository": "mstan/YoshiNESRecomp",
+      "folderName": "YoshiNESRecomp",
+      "appIconUrl": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_Entertainment_System/master/Named_Boxarts/Yoshi%20(USA).png"
+    },
+    {
+      "name": "Yoshi's Cookie: Recompiled",
+      "repository": "mstan/YoshisCookieRecomp",
+      "folderName": "YoshisCookieRecomp",
+      "appIconUrl": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_Entertainment_System/master/Named_Boxarts/Yoshi's%20Cookie%20(USA).png"
+    },
+    {
+      "name": "Gumshoe: Recompiled",
+      "repository": "mstan/GumshoeNESRecomp",
+      "folderName": "GumshoeNESRecomp",
+      "appIconUrl": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_Entertainment_System/master/Named_Boxarts/Gumshoe%20(USA).png"
+    }
+  ],
   "Tools": []
 }
