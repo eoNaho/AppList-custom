@@ -91,7 +91,7 @@
       "appIconUrl": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_Entertainment_System/master/Named_Boxarts/Gumshoe%20(USA).png"
     }
   ],
-  "Tools": [
+  "Source Ports": [
     {
       "name": "OpenMW",
       "repository": "OpenMW/openmw",
@@ -104,5 +104,6 @@
       "folderName": "CorsixTH",
       "appIconUrl": "https://github.com/CorsixTH.png"
     }
-  ]
+  ],
+  "Tools": []
 }
