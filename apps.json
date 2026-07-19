@@ -105,15 +105,6 @@
       "appIconUrl": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_Entertainment_System/master/Named_Boxarts/Gumshoe%20(USA).png"
     }
   ],
-  "Game Boy Ports": [
-    {
-      "name": "The Legend of Zelda: Link's Awakening DX HD",
-      "repository": "bighead.0/ladxhd_updated",
-      "provider": "gitlab",
-      "folderName": "LADXHD",
-      "appIconUrl": "https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/06373d2c-2485-4865-ab62-77409cc10433/dilasqk-0ed9fa7d-73dc-40f8-bc88-becbfee40103.png?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwiaXNzIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsIm9iaiI6W1t7InBhdGgiOiIvZi8wNjM3M2QyYy0yNDg1LTQ4NjUtYWI2Mi03NzQwOWNjMTA0MzMvZGlsYXNxay0wZWQ5ZmE3ZC03M2RjLTQwZjgtYmM4OC1iZWNiZmVlNDAxMDMucG5nIn1dXSwiYXVkIjpbInVybjpzZXJ2aWNlOmZpbGUuZG93bmxvYWQiXX0.sy7JGXiPe9Fa-XQfYRI2hwgXGFmUfV_RGuHizxQClD4"
-    }
-  ],
   "Source Ports": [
     {
       "name": "OpenMW",
