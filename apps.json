@@ -3,24 +3,28 @@
     {
       "name": "Silent Hill: Downpour Recompiled",
       "repository": "LittleBitUA/DownpourRecomp",
+      "provider": "github",
       "folderName": "DownpourRecomp",
       "appIconUrl": "https://cdn2.steamgriddb.com/grid/16c2f163b036939d4178a21ade6283c4.png"
     },
     {
       "name": "Castlevania: Symphony of the Night Recompiled",
       "repository": "birabittoh/NocturneRecomp",
+      "provider": "github",
       "folderName": "NocturneRecomp",
       "appIconUrl": "https://cdn2.steamgriddb.com/icon_thumb/c23497bd62a8f8a0981fdc9cbd3c30d9.png"
     },
     {
       "name": "Skate 3 Recompiled",
       "repository": "mchughalex/skate3recomp",
+      "provider": "github",
       "folderName": "Skate3Recompiled",
       "appIconUrl": "https://cdn2.steamgriddb.com/icon/dcf0c06522a3c86c78bea8dc47433933.png"
     },
     {
       "name": "Kameo: RePowered (Kameo: Elements of Power)",
       "repository": "birabittoh/KameoRePowered",
+      "provider": "github",
       "folderName": "KameoRePowered",
       "appIconUrl": "https://cdn2.steamgriddb.com/icon_thumb/6a9396f51fadc08f4d40ccf873451a4e.png"
     }
@@ -29,6 +33,7 @@
     {
       "name": "Mega Man X: Recompiled",
       "repository": "mstan/MegaManXSNESRecomp",
+      "provider": "github",
       "folderName": "MegaManXSNESRecomp",
       "appIconUrl": "https://cdn2.steamgriddb.com/icon_thumb/3721e4fa10597f0aa6ab442e95508de1.png"
     }
@@ -37,6 +42,7 @@
     {
       "name": "Tomba!: Recompiled",
       "repository": "mstan/TombaRecomp",
+      "provider": "github",
       "folderName": "TombaRecomp",
       "appIconUrl": "https://cdn2.steamgriddb.com/thumb/bc24e9eee7e3f89a8f618317668a9042.jpg"
     }
@@ -45,62 +51,81 @@
     {
       "name": "Super Mario Bros.: Recompiled",
       "repository": "mstan/SuperMarioBrosNESRecomp",
+      "provider": "github",
       "folderName": "SuperMarioBrosNESRecomp",
       "appIconUrl": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_Entertainment_System/master/Named_Boxarts/Super%20Mario%20Bros.%20(World).png"
     },
     {
       "name": "Duck Hunt: Recompiled",
       "repository": "mstan/DuckHuntNESRecomp",
+      "provider": "github",
       "folderName": "DuckHuntNESRecomp",
       "appIconUrl": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_Entertainment_System/master/Named_Boxarts/Duck%20Hunt%20(World).png"
     },
     {
       "name": "Dr. Mario: Recompiled",
       "repository": "mstan/DrMarioNesRecomp",
+      "provider": "github",
       "folderName": "DrMarioNesRecomp",
       "appIconUrl": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_Entertainment_System/master/Named_Boxarts/Dr.%20Mario%20(World).png"
     },
     {
       "name": "The Legend of Zelda: Recompiled",
       "repository": "mstan/LegendOfZeldaNESRecomp",
+      "provider": "github",
       "folderName": "LegendOfZeldaNESRecomp",
       "appIconUrl": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_Entertainment_System/master/Named_Boxarts/Legend%20of%20Zelda%2C%20The%20(USA).png"
     },
     {
       "name": "Faxanadu: Recompiled",
       "repository": "mstan/FaxanaduRecomp",
+      "provider": "github",
       "folderName": "FaxanaduRecomp",
       "appIconUrl": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_Entertainment_System/master/Named_Boxarts/Faxanadu%20(USA).png"
     },
     {
       "name": "Yoshi: Recompiled",
       "repository": "mstan/YoshiNESRecomp",
+      "provider": "github",
       "folderName": "YoshiNESRecomp",
       "appIconUrl": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_Entertainment_System/master/Named_Boxarts/Yoshi%20(USA).png"
     },
     {
       "name": "Yoshi's Cookie: Recompiled",
       "repository": "mstan/YoshisCookieRecomp",
+      "provider": "github",
       "folderName": "YoshisCookieRecomp",
       "appIconUrl": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_Entertainment_System/master/Named_Boxarts/Yoshi's%20Cookie%20(USA).png"
     },
     {
       "name": "Gumshoe: Recompiled",
       "repository": "mstan/GumshoeNESRecomp",
+      "provider": "github",
       "folderName": "GumshoeNESRecomp",
       "appIconUrl": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_Entertainment_System/master/Named_Boxarts/Gumshoe%20(USA).png"
+    }
+  ],
+  "Game Boy Ports": [
+    {
+      "name": "The Legend of Zelda: Link's Awakening DX HD",
+      "repository": "bighead.0/ladxhd_updated",
+      "provider": "gitlab",
+      "folderName": "LADXHD",
+      "appIconUrl": "https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/06373d2c-2485-4865-ab62-77409cc10433/dilasqk-0ed9fa7d-73dc-40f8-bc88-becbfee40103.png?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwiaXNzIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsIm9iaiI6W1t7InBhdGgiOiIvZi8wNjM3M2QyYy0yNDg1LTQ4NjUtYWI2Mi03NzQwOWNjMTA0MzMvZGlsYXNxay0wZWQ5ZmE3ZC03M2RjLTQwZjgtYmM4OC1iZWNiZmVlNDAxMDMucG5nIn1dXSwiYXVkIjpbInVybjpzZXJ2aWNlOmZpbGUuZG93bmxvYWQiXX0.sy7JGXiPe9Fa-XQfYRI2hwgXGFmUfV_RGuHizxQClD4"
     }
   ],
   "Source Ports": [
     {
       "name": "OpenMW",
       "repository": "OpenMW/openmw",
+      "provider": "github",
       "folderName": "openmw",
       "appIconUrl": "https://github.com/OpenMW.png"
     },
     {
       "name": "CorsixTH",
       "repository": "CorsixTH/CorsixTH",
+      "provider": "github",
       "folderName": "CorsixTH",
       "appIconUrl": "https://github.com/CorsixTH.png"
     }
